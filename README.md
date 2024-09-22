@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyushBhatnagar2301
-- 👀 I’m interested in ...Artificial intelligence and Machine Learning
-- 🌱 I’m currently learning ...C and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Artificial intelligence, Machine Learning and Data Science
+- 🌱 I have learnt C, C++ and python
+- 💞️ I’m looking to collaborate on my github
+- 📫 How to reach me - mail at ankitbhatnagar189@mail.com
 
 <!---
 AyushBhatnagar2301/AyushBhatnagar2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
